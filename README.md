@@ -4,14 +4,19 @@ A dynamic and responsive Swiggy Clone built using React and TailwindCSS. This pr
 
 ## Features ✨
 Responsive Design: Adapts to various screen sizes using TailwindCSS.
+
 React Components: Modular and reusable components for scalability.
+
 Interactive UI: Simulates the user experience of browsing and selecting restaurants and food items.
+
 Custom Styling: Designed with modern aesthetics using TailwindCSS utilities.
 
 
 ## Technologies Used 💻
 ReactJS: For building a dynamic front-end.
+
 TailwindCSS: For responsive and customizable design.
+
 JavaScript (ES6+): For implementing interactivity.
 
 
