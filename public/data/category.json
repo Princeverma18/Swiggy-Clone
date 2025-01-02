@@ -1,0 +1,82 @@
+[
+    {
+        "image": "North_Indian_4.jpeg",
+        "path": "North Indian"
+    },
+    {
+        "image": "Pizza.jpeg",
+        "path": "Pizza"
+    },
+    {
+        "image": "Noodles.jpeg",
+        "path": "Noodles"
+    },
+    {
+        "image": "Pasta.jpeg",
+        "path": "Pasta"
+    },
+    {
+        "image": "Paratha.jpeg",
+        "path": "Paratha"
+    },
+    {
+        "image": "Biryani_2.jpeg",
+        "path": "Biryani"
+    },
+    {
+        "image": "Burger.jpeg",
+        "path": "Burger"
+    },
+    {
+        "image": "Cakes.jpeg",
+        "path": "Cakes"
+    },
+    {
+        "image": "Chinese.jpeg",
+        "path": "Chinese"
+    },
+    {
+        "image": "Chole_Bature.jpeg",
+        "path": "Chole-Bhature"
+    },
+    {
+        "image": "Dosa.jpeg",
+        "path": "Dosa"
+    },
+    {
+        "image": "Gulab_Jamun.jpeg",
+        "path": "Gulab-Jamun"
+    },
+    {
+        "image": "Ice_Creams.jpeg",
+        "path": "Ice-Creams"
+    },
+    {
+        "image": "Idli.jpeg",
+        "path": "Idli"
+    },
+    {
+        "image": "Khichdi.jpeg",
+        "path": "Khichdi"
+    },
+    {
+        "image": "Poori.jpeg",
+        "path": "Poori"
+    },
+    {
+        "image": "Pure_Veg.jpeg",
+        "path": "Pure-Veg"
+    },
+    {
+        "image": "Rolls.jpeg",
+        "path": "Rolls"
+    },
+    {
+        "image": "Salad.jpeg",
+        "path": "Salad"
+    },
+    {
+        "image": "South_Indian_4.jpeg",
+        "path": "South-Indian"
+    }
+]
